@@ -9,7 +9,8 @@ This script allows you to get all your downloaded music from Geometry Dash
 
 ## Usage
 
-Run GD Music.exe and wait untill script converts all your music
+Run GD Music.exe and wait untill script converts all your music.
+
 Or if you have Python on your machine just type in your command prompt ```python main.py```
 
 Music will be stored in 'music' folder.
